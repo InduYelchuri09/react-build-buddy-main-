@@ -126,6 +126,11 @@ scripts/seed.mjs            idempotent seed script
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/beaa978e-dcb8-472d-bf99-314c0c98b218" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/35e79f1f-8736-4e16-bad7-f43c868da0c4" />
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ab71ec25-f371-43b0-a313-2a25493231cf" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/55fd5445-aae8-4a23-91f0-3c67e63c7f7b" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/cc134ed0-a3ee-4b89-b094-eb16276bb74b" />
+<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/fb3ef32b-dcf7-46f7-bbf7-b4f561d8a96d" />
+
+
 
 
 The browser never talks to the database directly: queries run server-side through TanStack server
